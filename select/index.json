@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Dystopia",
+  "base_artist": "Sizuk",
+  "createdAt": "2026-01-13T02:34:55.413199Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dystopia",
+      "artist": "Midnight Juggernauts",
+      "has_synced": true,
+      "path": "select/01_Dystopia_Midnight_Juggernauts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dystopia",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/02_Dystopia_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Impious Dystopia",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/03_Impious_Dystopia_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "which way (feat. dystopia)",
+      "artist": "FKA twigs feat. Dystopia",
+      "has_synced": true,
+      "path": "select/04_which_way_(feat._dystopia)_FKA_twigs_feat._Dystopia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "which way (feat. dystopia)",
+      "artist": "FKA twigs",
+      "has_synced": true,
+      "path": "select/05_which_way_(feat._dystopia)_FKA_twigs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dystopia",
+      "artist": "YACHT",
+      "has_synced": true,
+      "path": "select/06_Dystopia_YACHT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dystopia",
+      "artist": "Kreator",
+      "has_synced": false,
+      "path": "select/07_Dystopia_Kreator.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dystopia",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/08_Dystopia_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dystopia (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/09_Dystopia_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Dystopia",
+      "artist": "Brainstorm",
+      "has_synced": false,
+      "path": "select/10_My_Dystopia_Brainstorm.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "which way (feat. dystopia)",
+      "artist": "FKA twigs Dystopia",
+      "has_synced": true,
+      "path": "select/11_which_way_(feat._dystopia)_FKA_twigs_Dystopia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dynasties and Dystopia (from the series Arcane League of Legends)",
+      "artist": "Denzel Curry feat. Gizzle & Bren Joy",
+      "has_synced": true,
+      "path": "select/12_Dynasties_and_Dystopia_(from_the_series_Arcane_League_of_Legends)_Denzel_Curry_feat._Gizzle_&_Bren_Joy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dynasties and Dystopia (from the series Arcane League of Legends)",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/13_Dynasties_and_Dystopia_(from_the_series_Arcane_League_of_Legends)_Denzel_Curry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dynasties and Dystopia",
+      "artist": "Denzel Curry, Gizzle & Bren Joy",
+      "has_synced": true,
+      "path": "select/14_Dynasties_and_Dystopia_Denzel_Curry,_Gizzle_&_Bren_Joy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Dystopia",
+      "artist": "Beast in Black",
+      "has_synced": true,
+      "path": "select/15_My_Dystopia_Beast_in_Black.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dystopia",
+      "artist": "In Hearts Wake",
+      "has_synced": true,
+      "path": "select/16_Dystopia_In_Hearts_Wake.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dystopia",
+      "artist": "Sylosis",
+      "has_synced": true,
+      "path": "select/17_Dystopia_Sylosis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Trace Levels of Dystopia",
+      "artist": "Norma Jean",
+      "has_synced": false,
+      "path": "select/18_Trace_Levels_of_Dystopia_Norma_Jean.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Trace Level of Dystopia",
+      "artist": "Norma Jean",
+      "has_synced": true,
+      "path": "select/19_Trace_Level_of_Dystopia_Norma_Jean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dystopia",
+      "artist": "Sizuk feat.AYAME (from AliA)",
+      "has_synced": false,
+      "path": "select/pl_01_Dystopia_Sizuk_feat.AYAME_(from_AliA).txt"
+    }
+  ]
+}
